@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Prerequisites
 
 1. Make sure MongoDb is running with the `mongod` command in a terminal window
-2. Have the GraphQl backend running with npm start in a terminal window pointing to the directory of the showcase-graphql project
+2. Have the GraphQl backend running with `npm start` in a terminal window pointing to the directory of the showcase-graphql project
 
 ## Development server
 
