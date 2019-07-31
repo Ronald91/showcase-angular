@@ -1,4 +1,6 @@
 # ShowcaseAngular
+Angular 8 repo to be used in conjunction with a NestJs GraphQl backend repo that just shows a list of skills
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
