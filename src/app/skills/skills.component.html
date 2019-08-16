@@ -1,5 +1,7 @@
-<ul>
-  <li *ngFor="let result of skillData">
-    <a [href]="result.documentationUrl" target="_blank">{{result.name}}</a>
-  </li>
-</ul>
+<div class="section">
+  <ul class="container">
+    <li *ngFor="let result of skillData">
+      <a [href]="result.documentationUrl" target="_blank">{{ result.name }}</a>
+    </li>
+  </ul>
+</div>

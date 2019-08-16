@@ -25,6 +25,7 @@
     "apollo-angular-link-http": "^1.8.0",
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.3",
+    "apollo-link-error": "^1.1.11",
     "bulma": "^0.7.5",
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
